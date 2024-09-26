@@ -5,6 +5,7 @@
 <title> Explaining the Aggregegate demand and Aggregate supply curve </title>
 </head>
 
+![Screenshot 2024-09-26 at 08-06-34 Untitled drawing - Google Drawings](https://github.com/user-attachments/assets/9baa4a0a-8443-43a2-96f5-e5515cbe8569)
 <body>
 <img src = "p-jamlogo.gif" alt = "Space jam">
 <h1> Wow, look its the <strong>space jam logo<strong> </h1>
