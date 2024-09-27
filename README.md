@@ -4,6 +4,7 @@
 
 
 ![Screenshot 2024-09-26 at 08-06-34 Untitled drawing - Google Drawings](https://github.com/user-attachments/assets/9baa4a0a-8443-43a2-96f5-e5515cbe8569)
+
 <body>
 <h1> Above is the <strong>aggregate demand and aggregate supply graph<strong> </h1>
   <p> This curve illustrates the real GDP on the x axis, and the price level on the y. <p>
@@ -21,13 +22,20 @@
     <li>When firms expect costs of production to go up, they decrease supply</li>
     <li>Increase in nominal wages -> less workers -> less supply</li>
   </ul>
-<p> press the square button on the top left, hover your cursor over the image<p>
-<p> open the image link and download it <p>
+
+<h5>What a right shift of SRAS looks like:</h5>
+
+![Untitled drawing-1](https://github.com/user-attachments/assets/e3f82360-5c90-4340-a1e0-66b2727faf81)
+
+
+  <p>Increased real GDP at equilibrium, higher price level</p>
+
+<h5>What a right shift of AD looks like:</h5>
+
+![Untitled drawing(1)](https://github.com/user-attachments/assets/8eb07e42-26c1-453d-9d2b-73815c664d29)
+
+<p>Increased real GDP at equilibrium, but decreased price level</p>
 </body>
 
-<style> h1, h2{color:blue;}
-p{color:purple;}
-body {background:black;}
-</style>
 
 </html>
