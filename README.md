@@ -23,18 +23,23 @@
     <li>Increase in nominal wages -> less workers -> less supply</li>
   </ul>
 
-<h5>What a right shift of SRAS looks like:</h5>
+<h3>What a right shift of SRAS looks like:</h3>
 
 ![Untitled drawing-1](https://github.com/user-attachments/assets/e3f82360-5c90-4340-a1e0-66b2727faf81)
 
 
   <p>Increased real GDP at equilibrium, higher price level</p>
 
-<h5>What a right shift of AD looks like:</h5>
+<h3>What a right shift of AD looks like:</h3>
 
 ![Untitled drawing(1)](https://github.com/user-attachments/assets/8eb07e42-26c1-453d-9d2b-73815c664d29)
 
 <p>Increased real GDP at equilibrium, but decreased price level</p>
+
+<h2>here is a link to Khan Academy's AD AS model description: 
+https://www.khanacademy.org/economics-finance-domain/ap-macroeconomics/ap-macro-resources-and-exam-preparation/every-graph-used-in-ap-macroeconomics/a/the-aggregate-demand-aggregate-supply-ad-as-model
+</h2>
+
 </body>
 
 
